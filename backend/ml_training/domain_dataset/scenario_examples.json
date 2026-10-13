@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "What is the predicted flood depth and confidence for T. Nagar ward?",
+    "input": "Zone: T. Nagar, Chennai",
+    "output": "🌊 [Prediction Agent Telemetry]\nZone: T. Nagar (Ward 136)\nPredicted Water Depth: 0.62 meters (High Flood Risk)\nModel Confidence Score: 91.4%\nPrimary Ingestion Telemetry: ISRO EOS-04 SAR (MRS L2B)\nISRO WaterSpread Agreement: 0.887 IoU\nSummary: Pluvial accumulation detected across G.N. Chetty Road and Usman Road subway corridors due to drainage capacity reduction (45% blocked) under 68 mm/hr convective precipitation."
+  },
+  {
+    "instruction": "Explain why Velachery Lake zone is flagged for severe flooding risk.",
+    "input": "Zone: Velachery, Chennai",
+    "output": "🧠 [Explainability Agent Rationale]\nGradient Attribution: Grad-CAM and SHAP DeepExplainer identify the primary causal drivers as:\n1. Topographic Depression (DEM gradient: -4.2m relative to surrounding ridge lines) — Attribution: +44%.\n2. Infiltration Barrier: 88% impervious concrete surface fraction in residential layouts — Attribution: +31%.\n3. Inflow Exceedance: Runoff from Pallikaranai marshland buffer backflowing through encroached micro-canals — Attribution: +25%.\nConclusion: Low elevation combined with high urbanization prevents gravity drainage into Buckingham Canal."
+  },
+  {
+    "instruction": "What emergency alert actions have been dispatched for the Koramangala 4th Block?",
+    "input": "Zone: Koramangala, Bengaluru",
+    "output": "🚨 [Alert & Response Agent Dispatch Log]\nSeverity: HIGH (Predicted Depth: 0.58m)\nActions Executed:\n• Dispatched SMS alert via Twilio to BBMP Disaster Management Ward Officer.\n• Sent automated priority dispatch to SDRF rescue squad staging at National Games Village.\n• Acknowledged by: Pending Officer Acknowledgement.\n• Decision Trail: Logged to TwinCognitionLog under Transaction ID #ALERT-BLR-04-2026."
+  },
+  {
+    "instruction": "What happens if rainfall in Velachery increases by 30% over the next 4 hours?",
+    "input": "What-if Scenario: +30% Rainfall in Velachery",
+    "output": "🌊 [Simulation Agent What-If Projection]\nBaseline Depth: 0.78m → Projected Peak Depth: 1.04m (+0.26m increase)\nRisk Classification: Escalate to CRITICAL DISASTER EMERGENCY (NDMA Level 4)\nProjected Timeline:\n• T+1 hr: 0.86m (Submergence of ground-floor parking areas)\n• T+2 hr: 0.94m (Main arterial 100-ft bypass road impassable for all vehicles)\n• T+3 hr: 1.01m (Inundation of 11KV electrical distribution transformers)\n• T+4 hr: 1.04m (Peak hydrodynamic crest before slow gravity recession)\nRecommended Intervention: Mobilize heavy submersible de-watering pumps immediately."
+  }
+]

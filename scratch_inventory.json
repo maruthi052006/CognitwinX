@@ -1,0 +1,1244 @@
+[
+  {
+    "path": ".env",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": ".env.example",
+    "lines": 58,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": ".gitignore",
+    "lines": 51,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "README.md",
+    "lines": 132,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/.env",
+    "lines": 25,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/.env.example",
+    "lines": 62,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/Dockerfile",
+    "lines": 33,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/__init__.py",
+    "lines": 0,
+    "is_empty": true,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/alert_agent/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/alert_agent/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/alert_agent/services.py",
+    "lines": 72,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/alert_agent/tasks.py",
+    "lines": 110,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/apps.py",
+    "lines": 6,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/consumers.py",
+    "lines": 123,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/migrations/0001_initial.py",
+    "lines": 48,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/migrations/__init__.py",
+    "lines": 0,
+    "is_empty": true,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/models.py",
+    "lines": 37,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/prompts.py",
+    "lines": 37,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/rag_engine.py",
+    "lines": 201,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/router.py",
+    "lines": 489,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/tools.py",
+    "lines": 411,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/urls.py",
+    "lines": 8,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/chat_router_agent/views.py",
+    "lines": 126,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/explainability_agent/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/explainability_agent/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/explainability_agent/shap_engine.py",
+    "lines": 95,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/explainability_agent/tasks.py",
+    "lines": 37,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/orchestrator_agent/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/orchestrator_agent/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/orchestrator_agent/decision_log.py",
+    "lines": 45,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/orchestrator_agent/urls.py",
+    "lines": 6,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/orchestrator_agent/views.py",
+    "lines": 25,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/orchestrator_agent/workflow.py",
+    "lines": 237,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/prediction_agent/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/prediction_agent/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/prediction_agent/ml_engine/attention_unet.py",
+    "lines": 118,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/prediction_agent/ml_engine/inference.py",
+    "lines": 102,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/prediction_agent/tasks.py",
+    "lines": 86,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/bhoonidhi_client.py",
+    "lines": 241,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/bhuvan_client.py",
+    "lines": 287,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/__init__.py",
+    "lines": 59,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/bhuvan_lidar_client.py",
+    "lines": 104,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+    "lines": 38,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/height_estimator.py",
+    "lines": 142,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/merger.py",
+    "lines": 259,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/microsoft_footprints_client.py",
+    "lines": 228,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/osm_client.py",
+    "lines": 257,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/pipeline.py",
+    "lines": 224,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/test_building_pipeline.py",
+    "lines": 449,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/building_data/validator.py",
+    "lines": 224,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/imd_client.py",
+    "lines": 117,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/nasa_earthdata_client.py",
+    "lines": 193,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/preprocessing.py",
+    "lines": 73,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/services/sentinel_client.py",
+    "lines": 63,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/sensing_agent/tasks.py",
+    "lines": 195,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/simulation_agent/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/simulation_agent/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/simulation_agent/heightmap_generator.py",
+    "lines": 142,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/simulation_agent/hydro_model.py",
+    "lines": 78,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/agents/simulation_agent/tasks.py",
+    "lines": 34,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/migrations/0001_initial.py",
+    "lines": 51,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/migrations/0002_agentdecisionlog_triggered_via_and_more.py",
+    "lines": 25,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/migrations/0003_alter_alert_zone_and_more.py",
+    "lines": 24,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/migrations/__init__.py",
+    "lines": 0,
+    "is_empty": true,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/models.py",
+    "lines": 55,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/serializers.py",
+    "lines": 22,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/test_models.py",
+    "lines": 66,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/urls.py",
+    "lines": 8,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/alerts/views.py",
+    "lines": 61,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/data_ingestion/services/bhuvan_client.py",
+    "lines": 4,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/consumers.py",
+    "lines": 32,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/management/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/management/commands/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/management/commands/seed_demo_city.py",
+    "lines": 276,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/management/commands/seed_twin_data.py",
+    "lines": 249,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/migrations/0001_initial.py",
+    "lines": 85,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/migrations/0002_floodprediction_isro_validation_score_and_more.py",
+    "lines": 23,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/migrations/0003_infrastructureriskflag.py",
+    "lines": 30,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/migrations/0004_alter_floodprediction_zone_and_more.py",
+    "lines": 46,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/migrations/0005_cityzone_building_data_last_updated_and_more.py",
+    "lines": 23,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/migrations/__init__.py",
+    "lines": 0,
+    "is_empty": true,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/mock_data/__init__.py",
+    "lines": 9,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/mock_data/mock_city_generator.py",
+    "lines": 165,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/mock_data/mock_cognition_generator.py",
+    "lines": 63,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/mock_data/mock_flood_generator.py",
+    "lines": 49,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/models.py",
+    "lines": 173,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/routing.py",
+    "lines": 9,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/serializers.py",
+    "lines": 71,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/tasks.py",
+    "lines": 77,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/test_models.py",
+    "lines": 70,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/tests.py",
+    "lines": 146,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/urls.py",
+    "lines": 31,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/views.py",
+    "lines": 337,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/digital_twin/ws_broadcast.py",
+    "lines": 35,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/__init__.py",
+    "lines": 1,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/apps.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/migrations/0001_initial.py",
+    "lines": 27,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/migrations/0002_userprofile_is_approved.py",
+    "lines": 18,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/migrations/__init__.py",
+    "lines": 0,
+    "is_empty": true,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/models.py",
+    "lines": 32,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/serializers.py",
+    "lines": 83,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/urls.py",
+    "lines": 9,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/apps/users/views.py",
+    "lines": 68,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/config/__init__.py",
+    "lines": 3,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/config/asgi.py",
+    "lines": 16,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/config/celery.py",
+    "lines": 45,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/config/settings.py",
+    "lines": 199,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/config/urls.py",
+    "lines": 22,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/config/wsgi.py",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/manage.py",
+    "lines": 20,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/attention_unet_training.ipynb",
+    "lines": 368,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/domain_dataset/imd_terminology.json",
+    "lines": 17,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/domain_dataset/ndma_guidelines.json",
+    "lines": 22,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/domain_dataset/refusal_examples.json",
+    "lines": 27,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/domain_dataset/scenario_examples.json",
+    "lines": 22,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/domain_dataset/train.jsonl",
+    "lines": 909,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/domain_dataset/twin_concepts.json",
+    "lines": 27,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/domain_dataset/val.jsonl",
+    "lines": 102,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/export_gguf_instructions.md",
+    "lines": 93,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/finetune_domain_llm.py",
+    "lines": 189,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/finetune_domain_llm_colab.ipynb",
+    "lines": 317,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/ml_training/generate_domain_dataset.py",
+    "lines": 216,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/requirements.txt",
+    "lines": 22,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/test_chat_router.py",
+    "lines": 118,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/test_endpoints.py",
+    "lines": 51,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "backend/test_rag.py",
+    "lines": 35,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "docker-compose.yml",
+    "lines": 136,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/.env",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/.env.example",
+    "lines": 3,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/Dockerfile",
+    "lines": 45,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/index.html",
+    "lines": 19,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/package-lock.json",
+    "lines": 4326,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/package.json",
+    "lines": 39,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/postcss.config.js",
+    "lines": 6,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/App.jsx",
+    "lines": 37,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/BuildingsLayer.jsx",
+    "lines": 389,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/CameraController.jsx",
+    "lines": 52,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/CityTwinScene.jsx",
+    "lines": 241,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/ExplanationOverlay.jsx",
+    "lines": 71,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/FloodWaterLayer.jsx",
+    "lines": 111,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/PhotorealisticCityView.jsx",
+    "lines": 92,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/RainParticles.jsx",
+    "lines": 68,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/SatelliteTexturedTerrain.jsx",
+    "lines": 93,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/TerrainMesh.jsx",
+    "lines": 56,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/shaders/waterFragment.glsl",
+    "lines": 29,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/3d/shaders/waterVertex.glsl",
+    "lines": 25,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/chat/TwinChatPanel.jsx",
+    "lines": 447,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/common/ErrorBoundary.jsx",
+    "lines": 49,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/common/ResponsiveFallback2D.jsx",
+    "lines": 91,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/common/useDeviceCapability.js",
+    "lines": 2,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/dashboard/AlertBanner.jsx",
+    "lines": 55,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/dashboard/DataProvenanceBadge.jsx",
+    "lines": 146,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/dashboard/InfrastructureRiskPanel.jsx",
+    "lines": 90,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/dashboard/RiskGaugeRing.jsx",
+    "lines": 52,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/dashboard/TimelineScrubber.jsx",
+    "lines": 170,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/dashboard/TwinCognitionFeed.jsx",
+    "lines": 130,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/dashboard/ZoneCard.jsx",
+    "lines": 72,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/dashboard/ZoneRiskComparisonWidget.jsx",
+    "lines": 110,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/AgentPipelineFlow.jsx",
+    "lines": 194,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/AnimatedStatCounter.jsx",
+    "lines": 36,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/AuthModal.jsx",
+    "lines": 350,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/FeatureCard.jsx",
+    "lines": 61,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/Footer.jsx",
+    "lines": 102,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/HeroSection.jsx",
+    "lines": 181,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/LandingPage.jsx",
+    "lines": 277,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/LivePreviewEmbed.jsx",
+    "lines": 199,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/landing/TrustSection.jsx",
+    "lines": 92,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/layout/AppShell.jsx",
+    "lines": 186,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/layout/GridColumns.jsx",
+    "lines": 70,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/layout/PageContainer.jsx",
+    "lines": 21,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/layout/SectionCard.jsx",
+    "lines": 55,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/layout/designTokens.js",
+    "lines": 79,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/layout/index.js",
+    "lines": 5,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/map/BhuvanTileLayer.jsx",
+    "lines": 44,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/map/BhuvanWMSView.jsx",
+    "lines": 428,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/map/FloodOverlayLayer.js",
+    "lines": 179,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/map/GoogleMapView.jsx",
+    "lines": 714,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/map/LeafletMinimalFallback.jsx",
+    "lines": 227,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/map/MapLibreFallback2D.jsx",
+    "lines": 368,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/map/mapCapabilityDetector.js",
+    "lines": 91,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/components/simulator/WhatIfSliders.jsx",
+    "lines": 183,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/context/AuthContext.jsx",
+    "lines": 59,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/index.css",
+    "lines": 62,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/main.jsx",
+    "lines": 10,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/pages/AlertsHistory.jsx",
+    "lines": 138,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/pages/Dashboard.jsx",
+    "lines": 277,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/pages/Login.jsx",
+    "lines": 119,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/pages/ZoneDetail.jsx",
+    "lines": 146,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/services/api.js",
+    "lines": 232,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/services/cesiumLoader.js",
+    "lines": 73,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/services/googleMapsLoader.js",
+    "lines": 128,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/services/photorealisticCoverage.js",
+    "lines": 139,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/services/websocket.js",
+    "lines": 91,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/src/store/twinStore.js",
+    "lines": 216,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/tailwind.config.js",
+    "lines": 57,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/test_coverage_check.js",
+    "lines": 27,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "frontend/vite.config.js",
+    "lines": 25,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "pyrightconfig.json",
+    "lines": 10,
+    "is_empty": false,
+    "has_unimpl": false
+  },
+  {
+    "path": "scratch_inventory.py",
+    "lines": 44,
+    "is_empty": false,
+    "has_unimpl": true
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "What are the NDMA urban flood depth classifications and operational thresholds?",
+    "input": "",
+    "output": "According to the National Disaster Management Authority (NDMA) Urban Flood Standard Operating Procedures (SOP):\n1. Advisory Level (Depth < 0.30m): Pavement and curb-level ponding. Safe for slow vehicular movement. Public advisories issued.\n2. Moderate Flood Warning (0.30m to 0.45m): Water reaches building entrance plinths. Non-SUV vehicular movement restricted. Drainage sluice gates opened.\n3. High Flood Alert (0.45m to 0.75m): Ground floor inundation risk. Essential utilities isolated. Emergency SDRF/NDRF search and rescue staging begins.\n4. Critical Disaster Emergency (Depth > 0.75m): Structural safety threat, complete road paralysis. Immediate civilian evacuation and air/boat staging initiated."
+  },
+  {
+    "instruction": "What is the emergency protocol when flood depth exceeds 0.35m near designated critical infrastructure?",
+    "input": "Zone: Hospital and Medical Trauma Center",
+    "output": "Under NDMA guidelines, critical infrastructure facilities (hospitals, trauma care units, power sub-stations, and drinking water pump stations) have a reduced tolerance threshold of 0.35m. If projected or detected water depth exceeds 0.35m:\n1. Immediate priority escalation to SDMA / Municipal Disaster Cell.\n2. Deployment of mobile dewatering diesel pumps (minimum 500 m³/hr capacity).\n3. Sandbagging of medical oxygen yards and basement electrical switchgear.\n4. Establishment of alternative green corridors for emergency medical ambulances."
+  },
+  {
+    "instruction": "How do NDMA guidelines define the difference between riverine flooding and urban pluvial flooding?",
+    "input": "",
+    "output": "NDMA distinguishes the two as follows:\n• Riverine Flooding: Caused by river discharge exceeding bankfull capacity, typically characterized by slow rise times (hours to days), extensive catchment rainfall, and downstream propagation.\n• Urban Pluvial Flooding: Caused by high-intensity short-duration convective precipitation exceeding local stormwater drainage capacity, compounded by high imperviousness (>70%) and lack of infiltration. Water accumulates locally within 15–45 minutes, requiring real-time street-level digital twin monitoring."
+  },
+  {
+    "instruction": "What actions are required during the Preparation Phase under the Urban Flood Disaster Management plan?",
+    "input": "",
+    "output": "The Preparation Phase encompasses:\n1. Pre-monsoon desilting and clearing of major stormwater drains (SWDs) and canals.\n2. Verifying backscatter calibration and operational readiness of ISRO EOS-04 SAR and Doppler radar telemetry.\n3. Pre-positioning inflatable rescue boats and de-watering pump inventory at vulnerable municipal wards.\n4. Updating Digital Elevation Models (DEM) and building footprint geometries within the Cognitive Digital Twin."
+  }
+]

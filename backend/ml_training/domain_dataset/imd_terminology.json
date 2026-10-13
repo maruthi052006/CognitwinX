@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "How does the India Meteorological Department (IMD) classify 24-hour rainfall intensities?",
+    "input": "",
+    "output": "IMD classifies 24-hour accumulated rainfall into standard categories:\n1. Very Light Rain: 0.1 mm to 2.4 mm\n2. Light Rain: 2.5 mm to 15.5 mm\n3. Moderate Rain: 15.6 mm to 64.4 mm\n4. Heavy Rain: 64.5 mm to 115.5 mm\n5. Very Heavy Rain: 115.6 mm to 204.4 mm\n6. Extremely Heavy Rain: ≥ 204.5 mm\nIn urban basins, short-duration convective bursts exceeding 50 mm in 1 hour ('cloudburst-like' localized events) trigger pluvial flash flooding regardless of 24-hour totals."
+  },
+  {
+    "instruction": "What are the color-coded weather warnings used by IMD and what do they signify for urban flood control?",
+    "input": "",
+    "output": "IMD color warning codes and urban flood implications:\n• Green (No Warning): Normal meteorological conditions; no emergency action required.\n• Yellow (Watch / Be Updated): Deteriorating weather; civic agencies verify pump preparedness and monitor low-lying culverts.\n• Orange (Alert / Be Prepared): Severe weather expected; drainage teams deployed to flood hotspots, schools on alert, twin cycle frequency increased to 15 minutes.\n• Red (Warning / Take Action): Extremely severe weather; imminent urban flooding risk, disaster control rooms activated, vehicular movement restricted."
+  },
+  {
+    "instruction": "What is the role of NASA IMERG GPM data in Indian urban flood forecasting when IMD developer APIs are restricted?",
+    "input": "",
+    "output": "While IMD publishes daily bulleted bulletins, automated machine-to-machine developer APIs with low latency are restricted. The Sensing Agent therefore utilizes NASA IMERG (Integrated Multi-satellitE Retrievals for GPM) early-run products (0.1° × 0.1° half-hourly resolution) as its primary automated real-time precipitation feed, with IMD ground station logs utilized for periodic offline calibration."
+  }
+]

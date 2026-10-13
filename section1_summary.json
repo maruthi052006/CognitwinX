@@ -1,0 +1,2925 @@
+{
+  "files": [
+    {
+      "path": ".env",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": ".env.example",
+      "lines": 58,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "58 lines, 2 suspicious hardcoded values, 6 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          3,
+          "# Copy this file to .env and replace placeholder values with your credentials."
+        ],
+        [
+          48,
+          "# Twilio SMS Alerts (Optional, mock alerts active if unset)"
+        ]
+      ]
+    },
+    {
+      "path": ".gitignore",
+      "lines": 51,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "51 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "docker-compose.yml",
+      "lines": 136,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "136 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "pyrightconfig.json",
+      "lines": 10,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "10 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "README.md",
+      "lines": 132,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "132 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "scratch_inventory.json",
+      "lines": 1244,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1244 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/.env",
+      "lines": 25,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "25 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/.env.example",
+      "lines": 62,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "62 lines, 1 suspicious hardcoded values, 6 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          3,
+          "# Copy this file to .env and replace placeholder values with your credentials."
+        ]
+      ]
+    },
+    {
+      "path": "backend/Dockerfile",
+      "lines": 33,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "33 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/manage.py",
+      "lines": 20,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "20 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/requirements.txt",
+      "lines": 22,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "22 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/test_chat_router.py",
+      "lines": 118,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "118 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/test_endpoints.py",
+      "lines": 51,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "51 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/test_rag.py",
+      "lines": 35,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "35 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/__init__.py",
+      "lines": 0,
+      "purpose": "Empty file",
+      "state": "Empty/Stub",
+      "notes": "0 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/alert_agent/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/alert_agent/services.py",
+      "lines": 72,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "72 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/alert_agent/tasks.py",
+      "lines": 110,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "110 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/alert_agent/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/apps.py",
+      "lines": 6,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "6 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/consumers.py",
+      "lines": 123,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "123 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/models.py",
+      "lines": 37,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "37 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/prompts.py",
+      "lines": 37,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "37 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/rag_engine.py",
+      "lines": 201,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "201 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/router.py",
+      "lines": 489,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "489 lines, 3 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/tools.py",
+      "lines": 411,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "411 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/urls.py",
+      "lines": 8,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "8 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/views.py",
+      "lines": 126,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "126 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/migrations/0001_initial.py",
+      "lines": 48,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "48 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/chat_router_agent/migrations/__init__.py",
+      "lines": 0,
+      "purpose": "Empty file",
+      "state": "Empty/Stub",
+      "notes": "0 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/explainability_agent/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/explainability_agent/shap_engine.py",
+      "lines": 95,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "95 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/explainability_agent/tasks.py",
+      "lines": 37,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "37 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/explainability_agent/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/orchestrator_agent/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/orchestrator_agent/decision_log.py",
+      "lines": 45,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "45 lines, 1 suspicious hardcoded values",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          25,
+          "# Create a dummy object to satisfy broadcast"
+        ]
+      ]
+    },
+    {
+      "path": "backend/apps/agents/orchestrator_agent/urls.py",
+      "lines": 6,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "6 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/orchestrator_agent/views.py",
+      "lines": 25,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "25 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/orchestrator_agent/workflow.py",
+      "lines": 237,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "237 lines, 1 passes, 7 commented code sections",
+      "todos": [],
+      "passes": [
+        [
+          234,
+          "pass"
+        ]
+      ],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/orchestrator_agent/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/prediction_agent/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/prediction_agent/tasks.py",
+      "lines": 86,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "86 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/prediction_agent/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/prediction_agent/ml_engine/attention_unet.py",
+      "lines": 118,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "118 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/prediction_agent/ml_engine/inference.py",
+      "lines": 102,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "102 lines, 4 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/tasks.py",
+      "lines": 195,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "195 lines, 2 suspicious hardcoded values",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          74,
+          "# Clean swap architecture: Mock data generation vs real external APIs"
+        ],
+        [
+          83,
+          "reasoning_text=f\"Acquired EOS-04_SAR(MRS)_L2B C-band radar swath at 18m spatial resolution over {zone.name} [Mock Telemetry Mode].\","
+        ]
+      ]
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/bhoonidhi_client.py",
+      "lines": 241,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "241 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/bhuvan_client.py",
+      "lines": 287,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "287 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/imd_client.py",
+      "lines": 117,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "117 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/nasa_earthdata_client.py",
+      "lines": 193,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "193 lines, 1 suspicious hardcoded values",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          57,
+          "action=\"Earthdata Token Missing - Mock Mode\","
+        ]
+      ]
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/preprocessing.py",
+      "lines": 73,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "73 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/sentinel_client.py",
+      "lines": 63,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "63 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/bhuvan_lidar_client.py",
+      "lines": 104,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "104 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+      "lines": 38,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "38 lines, 7 passes",
+      "todos": [],
+      "passes": [
+        [
+          8,
+          "pass"
+        ],
+        [
+          13,
+          "pass"
+        ],
+        [
+          18,
+          "pass"
+        ],
+        [
+          23,
+          "pass"
+        ],
+        [
+          28,
+          "pass"
+        ],
+        [
+          33,
+          "pass"
+        ],
+        [
+          38,
+          "pass"
+        ]
+      ],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/height_estimator.py",
+      "lines": 142,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "142 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/merger.py",
+      "lines": 259,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "259 lines, 4 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/microsoft_footprints_client.py",
+      "lines": 228,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "228 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/osm_client.py",
+      "lines": 257,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "257 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/pipeline.py",
+      "lines": 224,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "224 lines, 4 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/test_building_pipeline.py",
+      "lines": 449,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "449 lines, 3 suspicious hardcoded values, 5 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          6,
+          "from unittest.mock import patch, MagicMock"
+        ],
+        [
+          114,
+          "# Add more dummy OSM features to exceed density threshold"
+        ],
+        [
+          291,
+          "# Configure mock to raise Timeout on all attempts"
+        ]
+      ]
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/validator.py",
+      "lines": 224,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "224 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/sensing_agent/services/building_data/__init__.py",
+      "lines": 59,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "59 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/simulation_agent/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/simulation_agent/heightmap_generator.py",
+      "lines": 142,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "142 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/simulation_agent/hydro_model.py",
+      "lines": 78,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "78 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/simulation_agent/tasks.py",
+      "lines": 34,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "34 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/agents/simulation_agent/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/models.py",
+      "lines": 55,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "55 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/serializers.py",
+      "lines": 22,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "22 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/test_models.py",
+      "lines": 66,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "66 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/urls.py",
+      "lines": 8,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "8 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/views.py",
+      "lines": 61,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "61 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/migrations/0001_initial.py",
+      "lines": 51,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "51 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/migrations/0002_agentdecisionlog_triggered_via_and_more.py",
+      "lines": 25,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "25 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/migrations/0003_alter_alert_zone_and_more.py",
+      "lines": 24,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "24 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/alerts/migrations/__init__.py",
+      "lines": 0,
+      "purpose": "Empty file",
+      "state": "Empty/Stub",
+      "notes": "0 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/data_ingestion/services/bhuvan_client.py",
+      "lines": 4,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "4 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/consumers.py",
+      "lines": 32,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "32 lines, 1 passes",
+      "todos": [],
+      "passes": [
+        [
+          28,
+          "pass"
+        ]
+      ],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/models.py",
+      "lines": 173,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "173 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/routing.py",
+      "lines": 9,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "9 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/serializers.py",
+      "lines": 71,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "71 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/tasks.py",
+      "lines": 77,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "77 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/tests.py",
+      "lines": 146,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "146 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/test_models.py",
+      "lines": 70,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "70 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/urls.py",
+      "lines": 31,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "31 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/views.py",
+      "lines": 337,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "337 lines, 1 passes, 1 commented code sections",
+      "todos": [],
+      "passes": [
+        [
+          240,
+          "pass"
+        ]
+      ],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/ws_broadcast.py",
+      "lines": 35,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "35 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/management/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/management/commands/seed_demo_city.py",
+      "lines": 276,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "276 lines, 1 suspicious hardcoded values",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          15,
+          "self.stdout.write(self.style.NOTICE(\"=== Starting CognitwinX Demo City Seeding (Mock Data Mode) ===\"))"
+        ]
+      ]
+    },
+    {
+      "path": "backend/apps/digital_twin/management/commands/seed_twin_data.py",
+      "lines": 249,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "249 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/management/commands/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/migrations/0001_initial.py",
+      "lines": 85,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "85 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/migrations/0002_floodprediction_isro_validation_score_and_more.py",
+      "lines": 23,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "23 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/migrations/0003_infrastructureriskflag.py",
+      "lines": 30,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "30 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/migrations/0004_alter_floodprediction_zone_and_more.py",
+      "lines": 46,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "46 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/migrations/0005_cityzone_building_data_last_updated_and_more.py",
+      "lines": 23,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "23 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/migrations/__init__.py",
+      "lines": 0,
+      "purpose": "Empty file",
+      "state": "Empty/Stub",
+      "notes": "0 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/mock_data/mock_city_generator.py",
+      "lines": 165,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "165 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/digital_twin/mock_data/mock_cognition_generator.py",
+      "lines": 63,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "63 lines, 1 suspicious hardcoded values",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          2,
+          "actual 'voice', so the live feed looks authentic even with mock data.\"\"\""
+        ]
+      ]
+    },
+    {
+      "path": "backend/apps/digital_twin/mock_data/mock_flood_generator.py",
+      "lines": 49,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "49 lines, 1 suspicious hardcoded values, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          1,
+          "\"\"\"Generates realistic-looking mock flood prediction/simulation data so the"
+        ]
+      ]
+    },
+    {
+      "path": "backend/apps/digital_twin/mock_data/__init__.py",
+      "lines": 9,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "9 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/apps.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/models.py",
+      "lines": 32,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "32 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/serializers.py",
+      "lines": 83,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "83 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/urls.py",
+      "lines": 9,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "9 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/views.py",
+      "lines": 68,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "68 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/__init__.py",
+      "lines": 1,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "1 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/migrations/0001_initial.py",
+      "lines": 27,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "27 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/migrations/0002_userprofile_is_approved.py",
+      "lines": 18,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "18 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/apps/users/migrations/__init__.py",
+      "lines": 0,
+      "purpose": "Empty file",
+      "state": "Empty/Stub",
+      "notes": "0 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/config/asgi.py",
+      "lines": 16,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "16 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/config/celery.py",
+      "lines": 45,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "45 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/config/settings.py",
+      "lines": 199,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "199 lines, 1 suspicious hardcoded values, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          45,
+          "# Mock data mode: True enables complete end-to-end operation without external API keys (ISRO, NASA, Twilio, etc.)"
+        ]
+      ]
+    },
+    {
+      "path": "backend/config/urls.py",
+      "lines": 22,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "22 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/config/wsgi.py",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/config/__init__.py",
+      "lines": 3,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "3 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/attention_unet_training.ipynb",
+      "lines": 368,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "368 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/export_gguf_instructions.md",
+      "lines": 93,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "93 lines, 4 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/finetune_domain_llm.py",
+      "lines": 189,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "189 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/finetune_domain_llm_colab.ipynb",
+      "lines": 317,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "317 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/generate_domain_dataset.py",
+      "lines": 216,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "216 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/domain_dataset/imd_terminology.json",
+      "lines": 17,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "17 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/domain_dataset/ndma_guidelines.json",
+      "lines": 22,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "22 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/domain_dataset/refusal_examples.json",
+      "lines": 27,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "27 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/domain_dataset/scenario_examples.json",
+      "lines": 22,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "22 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/domain_dataset/train.jsonl",
+      "lines": 909,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "909 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/domain_dataset/twin_concepts.json",
+      "lines": 27,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "27 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "backend/ml_training/domain_dataset/val.jsonl",
+      "lines": 102,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "102 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/.env",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/.env.example",
+      "lines": 3,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "3 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/Dockerfile",
+      "lines": 45,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "45 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/index.html",
+      "lines": 19,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "19 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/package-lock.json",
+      "lines": 4326,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "4326 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/package.json",
+      "lines": 39,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "39 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/postcss.config.js",
+      "lines": 6,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "6 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/tailwind.config.js",
+      "lines": 57,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "57 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/test_coverage_check.js",
+      "lines": 27,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "27 lines, 4 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          3,
+          "console.log('--- Testing Photorealistic Coverage Fallback Logic ---');"
+        ],
+        [
+          19,
+          "console.log(`[${pass ? 'PASS' : 'FAIL'}] ${c.name}: isIndianRegion=${result} (expected ${c.expected})`);"
+        ],
+        [
+          23,
+          "console.log('\\nAll boundary detection tests passed successfully.');"
+        ],
+        [
+          25,
+          "console.error('\\nSome boundary detection tests failed.');"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/vite.config.js",
+      "lines": 25,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "25 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/App.jsx",
+      "lines": 37,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "37 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/index.css",
+      "lines": 62,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "62 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/main.jsx",
+      "lines": 10,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "10 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/BuildingsLayer.jsx",
+      "lines": 389,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "389 lines, 5 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/CameraController.jsx",
+      "lines": 52,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "52 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/CityTwinScene.jsx",
+      "lines": 241,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "241 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/ExplanationOverlay.jsx",
+      "lines": 71,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "71 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/FloodWaterLayer.jsx",
+      "lines": 111,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "111 lines, 1 suspicious hardcoded values, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          65,
+          "// Smooth vertex tweening with GSAP dummy object"
+        ]
+      ]
+    },
+    {
+      "path": "frontend/src/components/3d/PhotorealisticCityView.jsx",
+      "lines": 92,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "92 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/RainParticles.jsx",
+      "lines": 68,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "68 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/SatelliteTexturedTerrain.jsx",
+      "lines": 93,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "93 lines, 1 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          29,
+          "console.warn('Satellite texture load error, using fallback procedural ground', err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/TerrainMesh.jsx",
+      "lines": 56,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "56 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/shaders/waterFragment.glsl",
+      "lines": 29,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "29 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/3d/shaders/waterVertex.glsl",
+      "lines": 25,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "25 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/chat/TwinChatPanel.jsx",
+      "lines": 447,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "447 lines, 1 debug logs, 2 suspicious hardcoded values",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          96,
+          "console.error('Speech recognition error:', err);"
+        ]
+      ],
+      "hardcoded": [
+        [
+          419,
+          "placeholder={"
+        ],
+        [
+          424,
+          "className=\"flex-1 bg-slate-900/90 border border-slate-700/80 focus:border-cyan-400 rounded-xl px-3.5 py-2 text-xs text-white placeholder-slate-500 outline-none transition-all shadow-inner\""
+        ]
+      ]
+    },
+    {
+      "path": "frontend/src/components/common/ErrorBoundary.jsx",
+      "lines": 49,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "49 lines, 1 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          15,
+          "console.error('CognitwinX Component Error:', error, errorInfo);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/common/ResponsiveFallback2D.jsx",
+      "lines": 91,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "91 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/common/useDeviceCapability.js",
+      "lines": 2,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "2 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/dashboard/AlertBanner.jsx",
+      "lines": 55,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "55 lines, 1 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          19,
+          "console.error('Failed to acknowledge alert:', err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/dashboard/DataProvenanceBadge.jsx",
+      "lines": 146,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "146 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/dashboard/InfrastructureRiskPanel.jsx",
+      "lines": 90,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "90 lines, 1 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          15,
+          "console.error('Failed to load infrastructure flags:', err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/dashboard/RiskGaugeRing.jsx",
+      "lines": 52,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "52 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/dashboard/TimelineScrubber.jsx",
+      "lines": 170,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "170 lines, 1 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          44,
+          "console.error('Failed to load historical replay:', err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/dashboard/TwinCognitionFeed.jsx",
+      "lines": 130,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "130 lines, 1 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          15,
+          "console.error('Failed to trigger cycle:', err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/dashboard/ZoneCard.jsx",
+      "lines": 72,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "72 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/dashboard/ZoneRiskComparisonWidget.jsx",
+      "lines": 110,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "110 lines, 1 debug logs, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          17,
+          "console.error('Failed to load zone comparison:', err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/landing/AgentPipelineFlow.jsx",
+      "lines": 194,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "194 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/landing/AnimatedStatCounter.jsx",
+      "lines": 36,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "36 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/landing/AuthModal.jsx",
+      "lines": 350,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "350 lines, 9 suspicious hardcoded values",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          170,
+          "placeholder=\"e.g. ndma_officer\""
+        ],
+        [
+          171,
+          "className=\"w-full pl-10 pr-3 py-2.5 rounded-xl bg-slate-950 border border-slate-800 focus:border-cyan-500 text-xs text-white placeholder-slate-600 focus:outline-none\""
+        ],
+        [
+          185,
+          "placeholder=\"\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\""
+        ],
+        [
+          186,
+          "className=\"w-full pl-10 pr-3 py-2.5 rounded-xl bg-slate-950 border border-slate-800 focus:border-cyan-500 text-xs text-white placeholder-slate-600 focus:outline-none\""
+        ],
+        [
+          272,
+          "placeholder=\"Choose username\""
+        ],
+        [
+          284,
+          "placeholder=\"officer@disaster.gov.in\""
+        ],
+        [
+          297,
+          "placeholder=\"Create password\""
+        ],
+        [
+          316,
+          "placeholder=\"NDMA / SDMA HQ\""
+        ],
+        [
+          327,
+          "placeholder=\"+91 98765 43210\""
+        ]
+      ]
+    },
+    {
+      "path": "frontend/src/components/landing/FeatureCard.jsx",
+      "lines": 61,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "61 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/landing/Footer.jsx",
+      "lines": 102,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "102 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/landing/HeroSection.jsx",
+      "lines": 181,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "181 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/landing/LandingPage.jsx",
+      "lines": 277,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "277 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/landing/LivePreviewEmbed.jsx",
+      "lines": 199,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "199 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/landing/TrustSection.jsx",
+      "lines": 92,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "92 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/layout/AppShell.jsx",
+      "lines": 186,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "186 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/layout/designTokens.js",
+      "lines": 79,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "79 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/layout/GridColumns.jsx",
+      "lines": 70,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "70 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/layout/index.js",
+      "lines": 5,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "5 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/layout/PageContainer.jsx",
+      "lines": 21,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "21 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/layout/SectionCard.jsx",
+      "lines": 55,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "55 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/map/BhuvanTileLayer.jsx",
+      "lines": 44,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "44 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/map/BhuvanWMSView.jsx",
+      "lines": 428,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "428 lines, 1 debug logs, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          103,
+          "console.warn('[BhuvanWMSView] Using default verified ISRO layer catalog:', err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/map/FloodOverlayLayer.js",
+      "lines": 179,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "179 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/map/GoogleMapView.jsx",
+      "lines": 714,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "714 lines, 1 debug logs, 2 suspicious hardcoded values, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          242,
+          "console.error('[GoogleMapView] Initialization error:', err);"
+        ]
+      ],
+      "hardcoded": [
+        [
+          501,
+          "placeholder=\"Search ward, address, or shelter (Google Places)...\""
+        ],
+        [
+          502,
+          "className=\"w-full pl-9 pr-8 py-2 text-xs rounded-xl bg-slate-900/90 text-slate-100 placeholder-slate-400 border border-cyan-500/30 focus:border-cyan-400 focus:outline-none focus:ring-1 focus:ring-cyan-400 shadow-xl backdrop-blur-md transition-all\""
+        ]
+      ]
+    },
+    {
+      "path": "frontend/src/components/map/LeafletMinimalFallback.jsx",
+      "lines": 227,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "227 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/map/mapCapabilityDetector.js",
+      "lines": 91,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "91 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/map/MapLibreFallback2D.jsx",
+      "lines": 368,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "368 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/components/simulator/WhatIfSliders.jsx",
+      "lines": 183,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "183 lines, 1 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          60,
+          "console.error('Simulation error:', err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/context/AuthContext.jsx",
+      "lines": 59,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "59 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/pages/AlertsHistory.jsx",
+      "lines": 138,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "138 lines, 2 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          12,
+          "api.getAlerts().then(data => setAlerts(data.results || data)).catch(err => console.error(err));"
+        ],
+        [
+          20,
+          "console.error(err);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/pages/Dashboard.jsx",
+      "lines": 277,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "277 lines, 2 debug logs, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          57,
+          "console.error('Initial data loading error:', err);"
+        ],
+        [
+          74,
+          ".catch(err => console.error(err));"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/pages/Login.jsx",
+      "lines": 119,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "119 lines, 4 suspicious hardcoded values",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": [
+        [
+          58,
+          "className=\"w-full bg-slate-900/80 border border-slate-700/80 rounded-xl pl-9 pr-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-400 focus:ring-1 focus:ring-cyan-400\""
+        ],
+        [
+          59,
+          "placeholder=\"Officer ID\""
+        ],
+        [
+          73,
+          "className=\"w-full bg-slate-900/80 border border-slate-700/80 rounded-xl pl-9 pr-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-400 focus:ring-1 focus:ring-cyan-400\""
+        ],
+        [
+          74,
+          "placeholder=\"\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\""
+        ]
+      ]
+    },
+    {
+      "path": "frontend/src/pages/ZoneDetail.jsx",
+      "lines": 146,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "146 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/services/api.js",
+      "lines": 232,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "232 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/services/cesiumLoader.js",
+      "lines": 73,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "73 lines, 1 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/services/googleMapsLoader.js",
+      "lines": 128,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "128 lines, 2 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/services/photorealisticCoverage.js",
+      "lines": 139,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "139 lines",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/services/websocket.js",
+      "lines": 91,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "91 lines, 6 debug logs",
+      "todos": [],
+      "passes": [],
+      "debugs": [
+        [
+          19,
+          "console.log('[WebSocket] Connecting to:', wsUrl);"
+        ],
+        [
+          23,
+          "console.log('[WebSocket] Connected to Cognitive Twin real-time feed');"
+        ],
+        [
+          33,
+          "console.error('[WebSocket] Error parsing event data:', err);"
+        ],
+        [
+          38,
+          "console.warn('[WebSocket] Disconnected. Scheduling reconnect in 3s...', e.reason);"
+        ],
+        [
+          44,
+          "console.error('[WebSocket] Connection error:', err);"
+        ],
+        [
+          77,
+          "console.log('[WebSocket Status]', data.message);"
+        ]
+      ],
+      "hardcoded": []
+    },
+    {
+      "path": "frontend/src/store/twinStore.js",
+      "lines": 216,
+      "purpose": "Source code component",
+      "state": "Complete",
+      "notes": "216 lines, 5 commented code sections",
+      "todos": [],
+      "passes": [],
+      "debugs": [],
+      "hardcoded": []
+    }
+  ],
+  "all_todos": [],
+  "all_passes": [
+    [
+      "backend/apps/agents/orchestrator_agent/workflow.py",
+      234,
+      "pass"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+      8,
+      "pass"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+      13,
+      "pass"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+      18,
+      "pass"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+      23,
+      "pass"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+      28,
+      "pass"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+      33,
+      "pass"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/exceptions.py",
+      38,
+      "pass"
+    ],
+    [
+      "backend/apps/digital_twin/consumers.py",
+      28,
+      "pass"
+    ],
+    [
+      "backend/apps/digital_twin/views.py",
+      240,
+      "pass"
+    ]
+  ],
+  "all_debugs": [
+    [
+      "frontend/test_coverage_check.js",
+      3,
+      "console.log('--- Testing Photorealistic Coverage Fallback Logic ---');"
+    ],
+    [
+      "frontend/test_coverage_check.js",
+      19,
+      "console.log(`[${pass ? 'PASS' : 'FAIL'}] ${c.name}: isIndianRegion=${result} (expected ${c.expected})`);"
+    ],
+    [
+      "frontend/test_coverage_check.js",
+      23,
+      "console.log('\\nAll boundary detection tests passed successfully.');"
+    ],
+    [
+      "frontend/test_coverage_check.js",
+      25,
+      "console.error('\\nSome boundary detection tests failed.');"
+    ],
+    [
+      "frontend/src/components/3d/SatelliteTexturedTerrain.jsx",
+      29,
+      "console.warn('Satellite texture load error, using fallback procedural ground', err);"
+    ],
+    [
+      "frontend/src/components/chat/TwinChatPanel.jsx",
+      96,
+      "console.error('Speech recognition error:', err);"
+    ],
+    [
+      "frontend/src/components/common/ErrorBoundary.jsx",
+      15,
+      "console.error('CognitwinX Component Error:', error, errorInfo);"
+    ],
+    [
+      "frontend/src/components/dashboard/AlertBanner.jsx",
+      19,
+      "console.error('Failed to acknowledge alert:', err);"
+    ],
+    [
+      "frontend/src/components/dashboard/InfrastructureRiskPanel.jsx",
+      15,
+      "console.error('Failed to load infrastructure flags:', err);"
+    ],
+    [
+      "frontend/src/components/dashboard/TimelineScrubber.jsx",
+      44,
+      "console.error('Failed to load historical replay:', err);"
+    ],
+    [
+      "frontend/src/components/dashboard/TwinCognitionFeed.jsx",
+      15,
+      "console.error('Failed to trigger cycle:', err);"
+    ],
+    [
+      "frontend/src/components/dashboard/ZoneRiskComparisonWidget.jsx",
+      17,
+      "console.error('Failed to load zone comparison:', err);"
+    ],
+    [
+      "frontend/src/components/map/BhuvanWMSView.jsx",
+      103,
+      "console.warn('[BhuvanWMSView] Using default verified ISRO layer catalog:', err);"
+    ],
+    [
+      "frontend/src/components/map/GoogleMapView.jsx",
+      242,
+      "console.error('[GoogleMapView] Initialization error:', err);"
+    ],
+    [
+      "frontend/src/components/simulator/WhatIfSliders.jsx",
+      60,
+      "console.error('Simulation error:', err);"
+    ],
+    [
+      "frontend/src/pages/AlertsHistory.jsx",
+      12,
+      "api.getAlerts().then(data => setAlerts(data.results || data)).catch(err => console.error(err));"
+    ],
+    [
+      "frontend/src/pages/AlertsHistory.jsx",
+      20,
+      "console.error(err);"
+    ],
+    [
+      "frontend/src/pages/Dashboard.jsx",
+      57,
+      "console.error('Initial data loading error:', err);"
+    ],
+    [
+      "frontend/src/pages/Dashboard.jsx",
+      74,
+      ".catch(err => console.error(err));"
+    ],
+    [
+      "frontend/src/services/websocket.js",
+      19,
+      "console.log('[WebSocket] Connecting to:', wsUrl);"
+    ],
+    [
+      "frontend/src/services/websocket.js",
+      23,
+      "console.log('[WebSocket] Connected to Cognitive Twin real-time feed');"
+    ],
+    [
+      "frontend/src/services/websocket.js",
+      33,
+      "console.error('[WebSocket] Error parsing event data:', err);"
+    ],
+    [
+      "frontend/src/services/websocket.js",
+      38,
+      "console.warn('[WebSocket] Disconnected. Scheduling reconnect in 3s...', e.reason);"
+    ],
+    [
+      "frontend/src/services/websocket.js",
+      44,
+      "console.error('[WebSocket] Connection error:', err);"
+    ],
+    [
+      "frontend/src/services/websocket.js",
+      77,
+      "console.log('[WebSocket Status]', data.message);"
+    ]
+  ],
+  "all_hardcoded": [
+    [
+      ".env.example",
+      3,
+      "# Copy this file to .env and replace placeholder values with your credentials."
+    ],
+    [
+      ".env.example",
+      48,
+      "# Twilio SMS Alerts (Optional, mock alerts active if unset)"
+    ],
+    [
+      "backend/.env.example",
+      3,
+      "# Copy this file to .env and replace placeholder values with your credentials."
+    ],
+    [
+      "backend/apps/agents/orchestrator_agent/decision_log.py",
+      25,
+      "# Create a dummy object to satisfy broadcast"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/tasks.py",
+      74,
+      "# Clean swap architecture: Mock data generation vs real external APIs"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/tasks.py",
+      83,
+      "reasoning_text=f\"Acquired EOS-04_SAR(MRS)_L2B C-band radar swath at 18m spatial resolution over {zone.name} [Mock Telemetry Mode].\","
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/nasa_earthdata_client.py",
+      57,
+      "action=\"Earthdata Token Missing - Mock Mode\","
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/test_building_pipeline.py",
+      6,
+      "from unittest.mock import patch, MagicMock"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/test_building_pipeline.py",
+      114,
+      "# Add more dummy OSM features to exceed density threshold"
+    ],
+    [
+      "backend/apps/agents/sensing_agent/services/building_data/test_building_pipeline.py",
+      291,
+      "# Configure mock to raise Timeout on all attempts"
+    ],
+    [
+      "backend/apps/digital_twin/management/commands/seed_demo_city.py",
+      15,
+      "self.stdout.write(self.style.NOTICE(\"=== Starting CognitwinX Demo City Seeding (Mock Data Mode) ===\"))"
+    ],
+    [
+      "backend/apps/digital_twin/mock_data/mock_cognition_generator.py",
+      2,
+      "actual 'voice', so the live feed looks authentic even with mock data.\"\"\""
+    ],
+    [
+      "backend/apps/digital_twin/mock_data/mock_flood_generator.py",
+      1,
+      "\"\"\"Generates realistic-looking mock flood prediction/simulation data so the"
+    ],
+    [
+      "backend/config/settings.py",
+      45,
+      "# Mock data mode: True enables complete end-to-end operation without external API keys (ISRO, NASA, Twilio, etc.)"
+    ],
+    [
+      "frontend/src/components/3d/FloodWaterLayer.jsx",
+      65,
+      "// Smooth vertex tweening with GSAP dummy object"
+    ],
+    [
+      "frontend/src/components/chat/TwinChatPanel.jsx",
+      419,
+      "placeholder={"
+    ],
+    [
+      "frontend/src/components/chat/TwinChatPanel.jsx",
+      424,
+      "className=\"flex-1 bg-slate-900/90 border border-slate-700/80 focus:border-cyan-400 rounded-xl px-3.5 py-2 text-xs text-white placeholder-slate-500 outline-none transition-all shadow-inner\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      170,
+      "placeholder=\"e.g. ndma_officer\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      171,
+      "className=\"w-full pl-10 pr-3 py-2.5 rounded-xl bg-slate-950 border border-slate-800 focus:border-cyan-500 text-xs text-white placeholder-slate-600 focus:outline-none\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      185,
+      "placeholder=\"\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      186,
+      "className=\"w-full pl-10 pr-3 py-2.5 rounded-xl bg-slate-950 border border-slate-800 focus:border-cyan-500 text-xs text-white placeholder-slate-600 focus:outline-none\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      272,
+      "placeholder=\"Choose username\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      284,
+      "placeholder=\"officer@disaster.gov.in\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      297,
+      "placeholder=\"Create password\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      316,
+      "placeholder=\"NDMA / SDMA HQ\""
+    ],
+    [
+      "frontend/src/components/landing/AuthModal.jsx",
+      327,
+      "placeholder=\"+91 98765 43210\""
+    ],
+    [
+      "frontend/src/components/map/GoogleMapView.jsx",
+      501,
+      "placeholder=\"Search ward, address, or shelter (Google Places)...\""
+    ],
+    [
+      "frontend/src/components/map/GoogleMapView.jsx",
+      502,
+      "className=\"w-full pl-9 pr-8 py-2 text-xs rounded-xl bg-slate-900/90 text-slate-100 placeholder-slate-400 border border-cyan-500/30 focus:border-cyan-400 focus:outline-none focus:ring-1 focus:ring-cyan-400 shadow-xl backdrop-blur-md transition-all\""
+    ],
+    [
+      "frontend/src/pages/Login.jsx",
+      58,
+      "className=\"w-full bg-slate-900/80 border border-slate-700/80 rounded-xl pl-9 pr-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-400 focus:ring-1 focus:ring-cyan-400\""
+    ],
+    [
+      "frontend/src/pages/Login.jsx",
+      59,
+      "placeholder=\"Officer ID\""
+    ],
+    [
+      "frontend/src/pages/Login.jsx",
+      73,
+      "className=\"w-full bg-slate-900/80 border border-slate-700/80 rounded-xl pl-9 pr-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-400 focus:ring-1 focus:ring-cyan-400\""
+    ],
+    [
+      "frontend/src/pages/Login.jsx",
+      74,
+      "placeholder=\"\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\""
+    ]
+  ]
+}

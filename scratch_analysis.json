@@ -1,0 +1,2083 @@
+[
+  {
+    "file": ".env",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": ".env.example",
+    "lines": 58,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        3,
+        "# Copy this file to .env and replace placeholder values with your credentials."
+      ],
+      [
+        48,
+        "# Twilio SMS Alerts (Optional, mock alerts active if unset)"
+      ]
+    ]
+  },
+  {
+    "file": ".gitignore",
+    "lines": 51,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "README.md",
+    "lines": 132,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "Untitled-1.txt",
+    "lines": 6602,
+    "todos": [
+      [
+        3203,
+        "{\"Name\": \"xxxxxxxx.06.tar\"}"
+      ],
+      [
+        3206,
+        "<p>Two results are returned, as there is no product named xxxxxxxx.06.tar.</p>"
+      ]
+    ],
+    "passes": [],
+    "debugs": [
+      [
+        246,
+        "console.error('Failed to copy:', err);"
+      ]
+    ],
+    "hardcodeds": [
+      [
+        98,
+        "\"search-text-placeholder\": \"\","
+      ]
+    ]
+  },
+  {
+    "file": "backend\\.env",
+    "lines": 25,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\.env.example",
+    "lines": 62,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        3,
+        "# Copy this file to .env and replace placeholder values with your credentials."
+      ]
+    ]
+  },
+  {
+    "file": "backend\\Dockerfile",
+    "lines": 33,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\__init__.py",
+    "lines": 0,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\alert_agent\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\alert_agent\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\alert_agent\\services.py",
+    "lines": 72,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        33,
+        "elif account_sid and auth_token and not account_sid.startswith('MOCK_'):"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\agents\\alert_agent\\tasks.py",
+    "lines": 110,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\apps.py",
+    "lines": 6,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\consumers.py",
+    "lines": 123,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\migrations\\0001_initial.py",
+    "lines": 48,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\migrations\\__init__.py",
+    "lines": 0,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\models.py",
+    "lines": 37,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\prompts.py",
+    "lines": 37,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\rag_engine.py",
+    "lines": 201,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\router.py",
+    "lines": 489,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\tools.py",
+    "lines": 411,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\urls.py",
+    "lines": 8,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\chat_router_agent\\views.py",
+    "lines": 126,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\explainability_agent\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\explainability_agent\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\explainability_agent\\shap_engine.py",
+    "lines": 95,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\explainability_agent\\tasks.py",
+    "lines": 37,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\orchestrator_agent\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\orchestrator_agent\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\orchestrator_agent\\decision_log.py",
+    "lines": 45,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        25,
+        "# Create a dummy object to satisfy broadcast"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\agents\\orchestrator_agent\\urls.py",
+    "lines": 6,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\orchestrator_agent\\views.py",
+    "lines": 25,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\orchestrator_agent\\workflow.py",
+    "lines": 237,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\prediction_agent\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\prediction_agent\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\prediction_agent\\ml_engine\\attention_unet.py",
+    "lines": 118,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\prediction_agent\\ml_engine\\inference.py",
+    "lines": 102,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\prediction_agent\\tasks.py",
+    "lines": 86,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\bhoonidhi_client.py",
+    "lines": 241,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\bhuvan_client.py",
+    "lines": 287,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\__init__.py",
+    "lines": 59,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\bhuvan_lidar_client.py",
+    "lines": 104,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\exceptions.py",
+    "lines": 38,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\height_estimator.py",
+    "lines": 142,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\merger.py",
+    "lines": 259,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\microsoft_footprints_client.py",
+    "lines": 228,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\osm_client.py",
+    "lines": 257,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\pipeline.py",
+    "lines": 224,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\test_building_pipeline.py",
+    "lines": 449,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        6,
+        "from unittest.mock import patch, MagicMock"
+      ],
+      [
+        114,
+        "# Add more dummy OSM features to exceed density threshold"
+      ],
+      [
+        160,
+        "osm_client_mock = MagicMock(spec=OSMBuildingClient)"
+      ],
+      [
+        161,
+        "osm_client_mock.fetch_footprints.return_value = [] # Empty OSM"
+      ],
+      [
+        163,
+        "pipeline = BuildingIngestionPipeline(osm_client=osm_client_mock)"
+      ],
+      [
+        285,
+        "def test_overpass_timeout_and_500_retry_and_graceful_recovery(self, mock_post, mock_sleep):"
+      ],
+      [
+        291,
+        "# Configure mock to raise Timeout on all attempts"
+      ],
+      [
+        292,
+        "mock_post.side_effect = requests.exceptions.Timeout(\"Connection timed out\")"
+      ],
+      [
+        301,
+        "self.assertEqual(mock_post.call_count, 3)"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\building_data\\validator.py",
+    "lines": 224,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\imd_client.py",
+    "lines": 117,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\nasa_earthdata_client.py",
+    "lines": 193,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        57,
+        "action=\"Earthdata Token Missing - Mock Mode\","
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\preprocessing.py",
+    "lines": 73,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\services\\sentinel_client.py",
+    "lines": 63,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\sensing_agent\\tasks.py",
+    "lines": 195,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        74,
+        "# Clean swap architecture: Mock data generation vs real external APIs"
+      ],
+      [
+        83,
+        "reasoning_text=f\"Acquired EOS-04_SAR(MRS)_L2B C-band radar swath at 18m spatial resolution over {zone.name} [Mock Telemetry Mode].\","
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\agents\\simulation_agent\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\simulation_agent\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\simulation_agent\\heightmap_generator.py",
+    "lines": 142,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\simulation_agent\\hydro_model.py",
+    "lines": 78,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\agents\\simulation_agent\\tasks.py",
+    "lines": 34,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\migrations\\0001_initial.py",
+    "lines": 51,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\migrations\\0002_agentdecisionlog_triggered_via_and_more.py",
+    "lines": 25,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\migrations\\0003_alter_alert_zone_and_more.py",
+    "lines": 24,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\migrations\\__init__.py",
+    "lines": 0,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\models.py",
+    "lines": 55,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\serializers.py",
+    "lines": 22,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\test_models.py",
+    "lines": 66,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\urls.py",
+    "lines": 8,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\alerts\\views.py",
+    "lines": 61,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\data_ingestion\\services\\bhuvan_client.py",
+    "lines": 4,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\consumers.py",
+    "lines": 32,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\management\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\management\\commands\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\management\\commands\\seed_demo_city.py",
+    "lines": 276,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        15,
+        "self.stdout.write(self.style.NOTICE(\"=== Starting CognitwinX Demo City Seeding (Mock Data Mode) ===\"))"
+      ],
+      [
+        101,
+        "generator = MockCityGenerator("
+      ],
+      [
+        125,
+        "\"sources_used\": [\"mock_synthetic_city_grid\", \"indian_urban_typology\"],"
+      ],
+      [
+        142,
+        "\"sources_used\": [\"mock_synthetic_city_grid\", \"indian_urban_typology\"],"
+      ],
+      [
+        149,
+        "# C. Generate Simulation & Prediction with MockFloodSimulator"
+      ],
+      [
+        150,
+        "simulator = MockFloodSimulator(grid_size=64, seed=int(z_data[\"seed\"]))"
+      ],
+      [
+        225,
+        "reasoning = generate_mock_cognition_entry("
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\management\\commands\\seed_twin_data.py",
+    "lines": 249,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\migrations\\0001_initial.py",
+    "lines": 85,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\migrations\\0002_floodprediction_isro_validation_score_and_more.py",
+    "lines": 23,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\migrations\\0003_infrastructureriskflag.py",
+    "lines": 30,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\migrations\\0004_alter_floodprediction_zone_and_more.py",
+    "lines": 46,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\migrations\\0005_cityzone_building_data_last_updated_and_more.py",
+    "lines": 23,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\migrations\\__init__.py",
+    "lines": 0,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\mock_data\\__init__.py",
+    "lines": 9,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        1,
+        "from .mock_city_generator import MockCityGenerator"
+      ],
+      [
+        2,
+        "from .mock_flood_generator import MockFloodSimulator"
+      ],
+      [
+        3,
+        "from .mock_cognition_generator import generate_mock_cognition_entry"
+      ],
+      [
+        6,
+        "'MockCityGenerator',"
+      ],
+      [
+        7,
+        "'MockFloodSimulator',"
+      ],
+      [
+        8,
+        "'generate_mock_cognition_entry',"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\mock_data\\mock_city_generator.py",
+    "lines": 165,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        9,
+        "class MockCityGenerator:"
+      ],
+      [
+        99,
+        "\"data_provenance\": [\"mock_synthetic\", \"bhuvan_osm_aligned\"],"
+      ],
+      [
+        152,
+        "\"data_provenance\": [\"mock_synthetic\"],"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\mock_data\\mock_cognition_generator.py",
+    "lines": 63,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        2,
+        "actual 'voice', so the live feed looks authentic even with mock data.\"\"\""
+      ],
+      [
+        5,
+        "MOCK_REASONING_TEMPLATES = {"
+      ],
+      [
+        43,
+        "def generate_mock_cognition_entry(zone_name, agent_name, depth=None, confidence=None, rainfall=None):"
+      ],
+      [
+        46,
+        "for key in MOCK_REASONING_TEMPLATES.keys():"
+      ],
+      [
+        51,
+        "templates = MOCK_REASONING_TEMPLATES.get(normalized_agent, MOCK_REASONING_TEMPLATES[\"Sensing\"])"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\mock_data\\mock_flood_generator.py",
+    "lines": 49,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        1,
+        "\"\"\"Generates realistic-looking mock flood prediction/simulation data so the"
+      ],
+      [
+        7,
+        "class MockFloodSimulator:"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\models.py",
+    "lines": 173,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\routing.py",
+    "lines": 9,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\serializers.py",
+    "lines": 71,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\tasks.py",
+    "lines": 77,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\test_models.py",
+    "lines": 70,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\tests.py",
+    "lines": 146,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        31,
+        "dummy_input = torch.randn(2, 1, 128, 128)"
+      ],
+      [
+        33,
+        "output = model(dummy_input)"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\urls.py",
+    "lines": 31,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\views.py",
+    "lines": 337,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\digital_twin\\ws_broadcast.py",
+    "lines": 35,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\__init__.py",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\apps.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\migrations\\0001_initial.py",
+    "lines": 27,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\migrations\\0002_userprofile_is_approved.py",
+    "lines": 18,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\migrations\\__init__.py",
+    "lines": 0,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\models.py",
+    "lines": 32,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\serializers.py",
+    "lines": 83,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\urls.py",
+    "lines": 9,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\apps\\users\\views.py",
+    "lines": 68,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\config\\__init__.py",
+    "lines": 3,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\config\\asgi.py",
+    "lines": 16,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\config\\celery.py",
+    "lines": 45,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\config\\settings.py",
+    "lines": 199,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        45,
+        "# Mock data mode: True enables complete end-to-end operation without external API keys (ISRO, NASA, Twilio, etc.)"
+      ]
+    ]
+  },
+  {
+    "file": "backend\\config\\urls.py",
+    "lines": 22,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\config\\wsgi.py",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\manage.py",
+    "lines": 20,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\attention_unet_training.ipynb",
+    "lines": 368,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\domain_dataset\\imd_terminology.json",
+    "lines": 17,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\domain_dataset\\ndma_guidelines.json",
+    "lines": 22,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\domain_dataset\\refusal_examples.json",
+    "lines": 27,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\domain_dataset\\scenario_examples.json",
+    "lines": 22,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\domain_dataset\\train.jsonl",
+    "lines": 909,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\domain_dataset\\twin_concepts.json",
+    "lines": 27,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\domain_dataset\\val.jsonl",
+    "lines": 102,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\export_gguf_instructions.md",
+    "lines": 93,
+    "todos": [
+      [
+        62,
+        "Download the latest pre-compiled binary release for Windows (`llama-bXXXX-bin-win-cpu-x64.zip`) from:"
+      ]
+    ],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\finetune_domain_llm.py",
+    "lines": 189,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\finetune_domain_llm_colab.ipynb",
+    "lines": 317,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\ml_training\\generate_domain_dataset.py",
+    "lines": 216,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\requirements.txt",
+    "lines": 22,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\test_chat_router.py",
+    "lines": 118,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\test_endpoints.py",
+    "lines": 51,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "backend\\test_rag.py",
+    "lines": 35,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "docker-compose.yml",
+    "lines": 136,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\.env",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\.env.example",
+    "lines": 3,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\Dockerfile",
+    "lines": 45,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\index.html",
+    "lines": 19,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\package-lock.json",
+    "lines": 4326,
+    "todos": [
+      [
+        1347,
+        "\"integrity\": \"sha512-hlxxXd+F1mWiAcaFR7Sv9ZQT6m6UfI8+Vy/kFJzztq2pDMU/0wZ9sish0iszNZvsQDo8Gc0i5yuFEOz5dDf6fA==\","
+      ]
+    ],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\package.json",
+    "lines": 39,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\postcss.config.js",
+    "lines": 6,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\App.jsx",
+    "lines": 37,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\BuildingsLayer.jsx",
+    "lines": 389,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        158,
+        "const provenance = props.data_provenance || ['mock_synthetic', 'bhuvan_osm_aligned'];"
+      ]
+    ]
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\CameraController.jsx",
+    "lines": 52,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\CityTwinScene.jsx",
+    "lines": 241,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\ExplanationOverlay.jsx",
+    "lines": 71,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\FloodWaterLayer.jsx",
+    "lines": 111,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        65,
+        "// Smooth vertex tweening with GSAP dummy object"
+      ]
+    ]
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\PhotorealisticCityView.jsx",
+    "lines": 92,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\RainParticles.jsx",
+    "lines": 68,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\SatelliteTexturedTerrain.jsx",
+    "lines": 93,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        29,
+        "console.warn('Satellite texture load error, using fallback procedural ground', err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\TerrainMesh.jsx",
+    "lines": 56,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\shaders\\waterFragment.glsl",
+    "lines": 29,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\3d\\shaders\\waterVertex.glsl",
+    "lines": 25,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\chat\\TwinChatPanel.jsx",
+    "lines": 447,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        96,
+        "console.error('Speech recognition error:', err);"
+      ]
+    ],
+    "hardcodeds": [
+      [
+        419,
+        "placeholder={"
+      ],
+      [
+        424,
+        "className=\"flex-1 bg-slate-900/90 border border-slate-700/80 focus:border-cyan-400 rounded-xl px-3.5 py-2 text-xs text-white placeholder-slate-500 outline-none transition-all shadow-inner\""
+      ]
+    ]
+  },
+  {
+    "file": "frontend\\src\\components\\common\\ErrorBoundary.jsx",
+    "lines": 49,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        15,
+        "console.error('CognitwinX Component Error:', error, errorInfo);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\common\\ResponsiveFallback2D.jsx",
+    "lines": 91,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\common\\useDeviceCapability.js",
+    "lines": 2,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\dashboard\\AlertBanner.jsx",
+    "lines": 55,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        19,
+        "console.error('Failed to acknowledge alert:', err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\dashboard\\DataProvenanceBadge.jsx",
+    "lines": 146,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\dashboard\\InfrastructureRiskPanel.jsx",
+    "lines": 90,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        15,
+        "console.error('Failed to load infrastructure flags:', err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\dashboard\\RiskGaugeRing.jsx",
+    "lines": 52,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\dashboard\\TimelineScrubber.jsx",
+    "lines": 170,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        44,
+        "console.error('Failed to load historical replay:', err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\dashboard\\TwinCognitionFeed.jsx",
+    "lines": 130,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        15,
+        "console.error('Failed to trigger cycle:', err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\dashboard\\ZoneCard.jsx",
+    "lines": 72,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\dashboard\\ZoneRiskComparisonWidget.jsx",
+    "lines": 110,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        17,
+        "console.error('Failed to load zone comparison:', err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\AgentPipelineFlow.jsx",
+    "lines": 194,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\AnimatedStatCounter.jsx",
+    "lines": 36,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\AuthModal.jsx",
+    "lines": 350,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        170,
+        "placeholder=\"e.g. ndma_officer\""
+      ],
+      [
+        171,
+        "className=\"w-full pl-10 pr-3 py-2.5 rounded-xl bg-slate-950 border border-slate-800 focus:border-cyan-500 text-xs text-white placeholder-slate-600 focus:outline-none\""
+      ],
+      [
+        185,
+        "placeholder=\"\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\""
+      ],
+      [
+        186,
+        "className=\"w-full pl-10 pr-3 py-2.5 rounded-xl bg-slate-950 border border-slate-800 focus:border-cyan-500 text-xs text-white placeholder-slate-600 focus:outline-none\""
+      ],
+      [
+        272,
+        "placeholder=\"Choose username\""
+      ],
+      [
+        284,
+        "placeholder=\"officer@disaster.gov.in\""
+      ],
+      [
+        297,
+        "placeholder=\"Create password\""
+      ],
+      [
+        316,
+        "placeholder=\"NDMA / SDMA HQ\""
+      ],
+      [
+        327,
+        "placeholder=\"+91 98765 43210\""
+      ]
+    ]
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\FeatureCard.jsx",
+    "lines": 61,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\Footer.jsx",
+    "lines": 102,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\HeroSection.jsx",
+    "lines": 181,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\LandingPage.jsx",
+    "lines": 277,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\LivePreviewEmbed.jsx",
+    "lines": 199,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\landing\\TrustSection.jsx",
+    "lines": 92,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        61,
+        "CognitwinX relies on zero simulated placeholders in production. All telemetry is cross-referenced with official space agency sensors."
+      ]
+    ]
+  },
+  {
+    "file": "frontend\\src\\components\\layout\\AppShell.jsx",
+    "lines": 186,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\layout\\GridColumns.jsx",
+    "lines": 70,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\layout\\PageContainer.jsx",
+    "lines": 21,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\layout\\SectionCard.jsx",
+    "lines": 55,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\layout\\designTokens.js",
+    "lines": 79,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\layout\\index.js",
+    "lines": 5,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\map\\BhuvanTileLayer.jsx",
+    "lines": 44,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\map\\BhuvanWMSView.jsx",
+    "lines": 428,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        103,
+        "console.warn('[BhuvanWMSView] Using default verified ISRO layer catalog:', err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\map\\FloodOverlayLayer.js",
+    "lines": 179,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\map\\GoogleMapView.jsx",
+    "lines": 714,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        242,
+        "console.error('[GoogleMapView] Initialization error:', err);"
+      ]
+    ],
+    "hardcodeds": [
+      [
+        501,
+        "placeholder=\"Search ward, address, or shelter (Google Places)...\""
+      ],
+      [
+        502,
+        "className=\"w-full pl-9 pr-8 py-2 text-xs rounded-xl bg-slate-900/90 text-slate-100 placeholder-slate-400 border border-cyan-500/30 focus:border-cyan-400 focus:outline-none focus:ring-1 focus:ring-cyan-400 shadow-xl backdrop-blur-md transition-all\""
+      ]
+    ]
+  },
+  {
+    "file": "frontend\\src\\components\\map\\LeafletMinimalFallback.jsx",
+    "lines": 227,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\map\\MapLibreFallback2D.jsx",
+    "lines": 368,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\map\\mapCapabilityDetector.js",
+    "lines": 91,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\components\\simulator\\WhatIfSliders.jsx",
+    "lines": 183,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        60,
+        "console.error('Simulation error:', err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\context\\AuthContext.jsx",
+    "lines": 59,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\index.css",
+    "lines": 62,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\main.jsx",
+    "lines": 10,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\pages\\AlertsHistory.jsx",
+    "lines": 138,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        12,
+        "api.getAlerts().then(data => setAlerts(data.results || data)).catch(err => console.error(err));"
+      ],
+      [
+        20,
+        "console.error(err);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\pages\\Dashboard.jsx",
+    "lines": 277,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        57,
+        "console.error('Initial data loading error:', err);"
+      ],
+      [
+        74,
+        ".catch(err => console.error(err));"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\pages\\Login.jsx",
+    "lines": 119,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": [
+      [
+        58,
+        "className=\"w-full bg-slate-900/80 border border-slate-700/80 rounded-xl pl-9 pr-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-400 focus:ring-1 focus:ring-cyan-400\""
+      ],
+      [
+        59,
+        "placeholder=\"Officer ID\""
+      ],
+      [
+        73,
+        "className=\"w-full bg-slate-900/80 border border-slate-700/80 rounded-xl pl-9 pr-3 py-2 text-xs text-white placeholder-slate-500 focus:outline-none focus:border-cyan-400 focus:ring-1 focus:ring-cyan-400\""
+      ],
+      [
+        74,
+        "placeholder=\"\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\""
+      ]
+    ]
+  },
+  {
+    "file": "frontend\\src\\pages\\ZoneDetail.jsx",
+    "lines": 146,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\services\\api.js",
+    "lines": 232,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\services\\cesiumLoader.js",
+    "lines": 73,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\services\\googleMapsLoader.js",
+    "lines": 128,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\services\\photorealisticCoverage.js",
+    "lines": 139,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\services\\websocket.js",
+    "lines": 91,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        19,
+        "console.log('[WebSocket] Connecting to:', wsUrl);"
+      ],
+      [
+        23,
+        "console.log('[WebSocket] Connected to Cognitive Twin real-time feed');"
+      ],
+      [
+        33,
+        "console.error('[WebSocket] Error parsing event data:', err);"
+      ],
+      [
+        38,
+        "console.warn('[WebSocket] Disconnected. Scheduling reconnect in 3s...', e.reason);"
+      ],
+      [
+        44,
+        "console.error('[WebSocket] Connection error:', err);"
+      ],
+      [
+        77,
+        "console.log('[WebSocket Status]', data.message);"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\src\\store\\twinStore.js",
+    "lines": 216,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\tailwind.config.js",
+    "lines": 57,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\test_coverage_check.js",
+    "lines": 27,
+    "todos": [],
+    "passes": [],
+    "debugs": [
+      [
+        3,
+        "console.log('--- Testing Photorealistic Coverage Fallback Logic ---');"
+      ],
+      [
+        19,
+        "console.log(`[${pass ? 'PASS' : 'FAIL'}] ${c.name}: isIndianRegion=${result} (expected ${c.expected})`);"
+      ],
+      [
+        23,
+        "console.log('\\nAll boundary detection tests passed successfully.');"
+      ],
+      [
+        25,
+        "console.error('\\nSome boundary detection tests failed.');"
+      ]
+    ],
+    "hardcodeds": []
+  },
+  {
+    "file": "frontend\\vite.config.js",
+    "lines": 25,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "pyrightconfig.json",
+    "lines": 10,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  },
+  {
+    "file": "scratch_tree.json",
+    "lines": 1,
+    "todos": [],
+    "passes": [],
+    "debugs": [],
+    "hardcodeds": []
+  }
+]
